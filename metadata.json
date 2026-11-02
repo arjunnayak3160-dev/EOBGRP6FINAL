@@ -1,0 +1,6 @@
+{
+  "name": "Biomimetic Engineering | Spider-Web & Honeycomb Mechanics",
+  "description": "Multi-Physics FEA and Bio-Mechanical Simulation with Presentation Deck for Spider-Web Tensile Networks and Honeycomb Cellular Mechanics by Group 6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
